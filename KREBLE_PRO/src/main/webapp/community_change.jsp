@@ -33,7 +33,7 @@ function back(){
 						<input type="hidden" name=comu_no value=<%= comu_no %>>
 						<select name="cate" id="cate">
 							<option value="free" selected>자유</option>
-							<option value="debate">토론</option>
+							<option value="debate"> 토론 </option>
 							<option value="qna">질문</option>
 							<option value="info">정보</option>
 						</select>
